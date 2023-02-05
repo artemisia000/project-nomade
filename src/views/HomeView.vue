@@ -27,7 +27,8 @@ export default{
         StripeCheckout
     },
     data(){
-        this.publishablekey = "pk_test_51MX1RtAmm9i1Ud1Z6iKEJDLcCDN1ph895F6wvEySGkb0IiGSyzCnnsXM09wURb3xMJ3Souz38ESkuKX2ROwN3hpU00bBtnaf5w"
+        
+        this.publishablekey = 'pk_test_51MX1RtAmm9i1Ud1Z6iKEJDLcCDN1ph895F6wvEySGkb0IiGSyzCnnsXM09wURb3xMJ3Souz38ESkuKX2ROwN3hpU00bBtnaf5w'
 
         return{
             loading:false,
